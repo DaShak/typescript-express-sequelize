@@ -108,3 +108,9 @@ The [github issue tracker](https://github.com/maximegris/typescript-express-sequ
 - [x] Add Sequelize Typescript example with association
 - [x] Manage multiple database configuration with NODE_ENV
 - [ ] Add Swagger API Framework
+
+# magic-link-1 by Daniel Shakhmundes
+
+`npm install passport-magic-link`
+
+http://localhost.com:3000/api/magicLink
